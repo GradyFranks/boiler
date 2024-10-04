@@ -9,7 +9,7 @@ body {
     border-bottom: 15px solid #DBB8F4; 
     border-left:  15px solid #DBB8F4; 
     border-right:  15px solid #DBB8F4; 
-    
+
 
     margin: 0 auto;
 }
@@ -17,6 +17,9 @@ body {
 main {
     margin: 0 auto;
     width: 83%;
-
 }
 
+.details {
+    display: flex;
+    
+}
