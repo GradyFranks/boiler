@@ -5,13 +5,13 @@ a.active {
 body {
     background: #D1F4B8;
     font-family: Helvetica;
-    border-top: 15px solid #DBB8F4; 
+    border-radius: 15px solid #DBB8F4;
     margin: 0 auto;
 }
 
 main {
     margin: 0 auto;
     width: 83%;
-    
+
 }
 
