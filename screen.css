@@ -5,7 +5,12 @@ a.active {
 body {
     background: #D1F4B8;
     font-family: Helvetica;
-    border-radius: 15px solid #DBB8F4;
+    border-top: 15px solid #DBB8F4; 
+    border-bottom: 15px solid #DBB8F4; 
+    border-left:  15px solid #DBB8F4; 
+    border-right:  15px solid #DBB8F4; 
+    
+
     margin: 0 auto;
 }
 
