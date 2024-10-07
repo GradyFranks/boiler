@@ -19,6 +19,7 @@ main {
 
 .details {
     display: flex;
+    gap: 25px;
 }
 
 .details section {
